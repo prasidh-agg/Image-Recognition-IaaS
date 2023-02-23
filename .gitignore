@@ -1,0 +1,21 @@
+# Gradle specific
+.gradle
+/build/
+
+# IntelliJ specific
+.idea
+*.iml
+*.iws
+
+# Compiled output
+/build/
+/bin/
+/classes/
+/target/
+
+# Maven specific
+log/
+target/
+
+# Other
+.DS_Store
