@@ -1,0 +1,61 @@
+test_66.JPEG uploaded!
+Classification result: lacewing
+
+test_70.JPEG uploaded!
+Classification result: seat belt
+
+test_31.JPEG uploaded!
+Classification result: stupa
+
+test_30.JPEG uploaded!
+Classification result: candle
+
+test_11.JPEG uploaded!
+Classification result: custard apple
+
+test_10.JPEG uploaded!
+Classification result: face powder
+
+test_27.JPEG uploaded!
+Classification result: shoal
+
+test_6.JPEG uploaded!
+Classification result: shower curtain
+
+test_46.JPEG uploaded!
+Classification result: sink
+
+test_67.JPEG uploaded!
+Classification result: shower curtain
+
+test_47.JPEG uploaded!
+Classification result: mosquito net
+
+test_7.JPEG uploaded!
+Classification result: handkerchief
+
+test_93.JPEG uploaded!
+Classification result: church
+
+test_50.JPEG uploaded!
+Classification result: picket fence
+
+test_85.JPEG uploaded!
+Classification result: carton
+
+test_89.JPEG uploaded!
+Classification result: magnetic compass
+
+test_71.JPEG uploaded!
+Classification result: starfish
+
+test_51.JPEG uploaded!
+Classification result: jigsaw puzzle
+
+test_88.JPEG uploaded!
+Classification result: trilobite
+
+test_26.JPEG uploaded!
+Classification result: shower curtain
+
+Total time taken: 52.32 seconds

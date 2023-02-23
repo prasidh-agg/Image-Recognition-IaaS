@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Image Recognition with IaaS</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<style>
+		body {
+			margin: 0;
+			padding: 0;
+			background-image: url("https://images.unsplash.com/photo-1519681393784-d120267933ba");
+			background-size: cover;
+			background-repeat: no-repeat;
+			font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+			font-size: 16px;
+			line-height: 1.5;
+			color: #444;
+			display: flex;
+			align-items: center;
+			min-height: 100vh;
+		}
+		h1 {
+			font-size: 48px;
+			font-weight: 700;
+			color: #1E385B;
+			text-align: center;
+			margin: 0 0 20px;
+			padding-top: 50px;
+		}
+		p {
+			font-size: 18px;
+			line-height: 1.5;
+			text-align: center;
+			margin: 0 0 40px;
+		}
+		form {
+			max-width: 600px;
+			padding: 40px;
+			margin: 0 auto;
+			background-color: #fff;
+			border-radius: 10px;
+			box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+			margin-right: 20%;
+		}
+		label {
+			display: block;
+			margin-bottom: 10px;
+			font-weight: 700;
+			color: #1E385B;
+			font-size: 20px;
+		}
+		input[type="file"] {
+			display: block;
+			margin-top: 5px;
+			font-size: 16px;
+			padding: 10px;
+			border-radius: 5px;
+			border: 2px solid #ccc;
+			transition: border-color 0.3s ease;
+		}
+		input[type="file"]:hover, input[type="file"]:focus {
+			border-color: #1E385B;
+		}
+		input[type="submit"] {
+			display: block;
+			margin-top: 30px;
+			padding: 15px;
+			background-color: #1E385B;
+			color: #fff;
+			border: none;
+			border-radius: 5px;
+			cursor: pointer;
+			font-size: 20px;
+			font-weight: 700;
+			transition: background-color 0.3s ease;
+		}
+		input[type="submit"]:hover {
+			background-color: #2F557D;
+		}
+		.tagline {
+			font-size: 24px;
+			font-weight: 550;
+			font-style: italic;
+			color: #B6D0E2;
+			text-align: center;
+			margin: 40px 0;
+		}
+	</style>
+</head>
+
+<body>
+<h1>Image Recognition with IaaS</h1>
+<form method="POST" action="/file-upload" enctype="multipart/form-data">
+	<label for="files">Select an image to upload:</label>
+	<input type="file" id="files" name="files" multiple><br><br>
+
+	<input type="submit" value="Upload">
+</form>
+<p class="tagline">Upload an image and let ServerlessPresso handle the rest!</p>
+</body>
+</html>
