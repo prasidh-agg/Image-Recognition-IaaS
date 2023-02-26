@@ -2,8 +2,8 @@
 
 ## Group Members
 - Prasidh Aggarwal (paggar10)
-- Revanth (ASURITE ID)
-- Shriya (ASURITE ID)
+- Revanth (rbangal5)
+- Shriya (ssrin103)
 
 ## Tasks
 ### Prasidh Aggarwal
