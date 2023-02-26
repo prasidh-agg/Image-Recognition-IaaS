@@ -70,7 +70,7 @@ http://54.157.162.125:8080/file-upload
 - Custom AMI for app-tier --> ami-0b3d7c692204c4990
 
 ## Project working and Architecture
-Please click [here](https://github.com/prasidh-agg/Image-Recognition-IaaS/tree/main/extras/cc_project_1_report.pdf) to read a detailed report of the working of the application.
+Please click [here](https://github.com/prasidh-agg/Image-Recognition-IaaS/tree/main/extras/cc_project1_report.pdf) to read a detailed report of the working of the application.
 
 ## How to get started?
 1. Clone the repo.
