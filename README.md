@@ -50,7 +50,7 @@ AWS credentials are provided through an ec2-user role through IAM to the app tie
 Considering it is not a good practice to ever expose AWS credentials, they are not mentioned here.
 
 ## PEM Key 
-Please click [here](https://github.com/prasidh-agg/cc-project1/extras/configs/web-tier.pem) to access the PEM key for web-tier SSH access.
+Please click [here](https://github.com/prasidh-agg/Image-Recognition-IaaS/extras/configs/web-tier.pem) to access the PEM key for web-tier SSH access.
 
 ## Web Tier’s URL
 http://54.157.162.125:8080/file-upload
@@ -70,7 +70,7 @@ http://54.157.162.125:8080/file-upload
 - Custom AMI for app-tier --> ami-0b3d7c692204c4990
 
 ## Project working and Architecture
-Please click [here](https://github.com/prasidh-agg/cc-project1/extras/cc_project_1_report.pdf) to read a detailed report of the working of the application.
+Please click [here](https://github.com/prasidh-agg/Image-Recognition-IaaS/extras/cc_project_1_report.pdf) to read a detailed report of the working of the application.
 
 ## How to get started?
 1. Clone the repo.
