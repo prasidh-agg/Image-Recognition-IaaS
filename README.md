@@ -70,7 +70,11 @@ http://54.157.162.125:8080/file-upload
 - Custom AMI for app-tier --> ami-0b3d7c692204c4990
 
 ## Project working and Architecture
-Please click [here](https://github.com/prasidh-agg/Image-Recognition-IaaS/tree/main/extras/cc_project1_report.pdf) to read a detailed report of the working of the application.
+Please click [here](https://github.com/prasidh-agg/Image-Recognition-IaaS/tree/main/reports/ServerlessPresso_Group_Report.pdf) to read a detailed report of the working of the application.
+For individual member reports use the below links:
+-[Prasidh](https://github.com/prasidh-agg/Image-Recognition-IaaS/tree/main/reports/Prasidh_Aggarwal_Individual_Report.pdf)
+-[Shriya](https://github.com/prasidh-agg/Image-Recognition-IaaS/tree/main/reports/Shriya_Srinivasan_Individual_Report.pdf)
+-[Revanth](https://github.com/prasidh-agg/Image-Recognition-IaaS/tree/main/reports/Revanth_Suresha_Individual_Report.pdf)
 
 ## How to get started?
 1. Clone the repo.
