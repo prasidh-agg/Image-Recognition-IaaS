@@ -25,7 +25,7 @@ public class WebTierRestController {
      * @throws InterruptedException Interrupted Exceptions
      */
     @PostMapping(value = "/file-upload")
-    public String handleFileUpload(@RequestParam("myfile") MultipartFile file) throws IOException, InterruptedException {
+    public String handleFileUpload(@RequestParam("file") MultipartFile file) throws IOException, InterruptedException {
         return webTierService.handleFileUpload(file);
     }
 
