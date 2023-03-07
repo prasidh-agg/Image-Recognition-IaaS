@@ -50,7 +50,7 @@ AWS credentials are provided through an ec2-user role through IAM to the app tie
 Considering it is not a good practice to ever expose AWS credentials, they are not mentioned here.
 
 ## PEM Key 
-Please click [here](https://github.com/prasidh-agg/Image-Recognition-IaaS/tree/main/extras/configs/web-tier.pem) to access the PEM key for web-tier SSH access.
+Please click [here](https://github.com/prasidh-agg/image-recognition-iaas/tree/main/extras/configs/web-tier.pem) to access the PEM key for web-tier SSH access.
 
 ## Web Tier’s URL
 http://54.157.162.125:8080/file-upload
@@ -70,12 +70,12 @@ http://54.157.162.125:8080/file-upload
 - Custom AMI for app-tier --> ami-0b3d7c692204c4990
 
 ## Project working and Architecture
-Please click [here](https://github.com/prasidh-agg/Image-Recognition-IaaS/tree/main/reports/ServerlessPresso_Group_Report.pdf) to read a detailed report of the working of the application.
+Please click [here](https://github.com/prasidh-agg/image-recognition-iaas/tree/main/reports/ServerlessPresso_Group_Report.pdf) to read a detailed report of the working of the application.
 For individual member reports use the below links:
 
-- [Prasidh](https://github.com/prasidh-agg/Image-Recognition-IaaS/tree/main/reports/Prasidh_Aggarwal_Individual_Report.pdf)
-- [Shriya](https://github.com/prasidh-agg/Image-Recognition-IaaS/tree/main/reports/Shriya_Srinivasan_Individual_Report.pdf)
-- [Revanth](https://github.com/prasidh-agg/Image-Recognition-IaaS/tree/main/reports/Revanth_Suresha_Individual_Report.pdf)
+- [Prasidh](https://github.com/prasidh-agg/image-recognition-iaaS/tree/main/reports/Prasidh_Aggarwal_Individual_Report.pdf)
+- [Shriya](https://github.com/prasidh-agg/image-recognition-iaaS/tree/main/reports/Shriya_Srinivasan_Individual_Report.pdf)
+- [Revanth](https://github.com/prasidh-agg/image-recognition-iaaS/tree/main/reports/Revanth_Suresha_Individual_Report.pdf)
 
 ## How to get started?
 1. Clone the repo.
